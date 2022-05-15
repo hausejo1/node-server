@@ -1,0 +1,11 @@
+{
+    "name": "docker_demo_app",
+    "main": "server.js",
+    "author": "Jonas Hauser <hausejo1@students.zhaw.ch>",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
